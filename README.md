@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Clara</h1>
 <h3 align="center">A passionate Data Analyst from France</h3>
 
-- 🔭 I’m currently working on [What's for Dinner](https://github.com/hazmmmm/whats_for_dinner)
+- 🔭 I’m currently working on [Airbnb](https://github.com/reallylongaddress/airbnb)
 
 - 🌱 I’m currently learning **R and Tableau**
 
